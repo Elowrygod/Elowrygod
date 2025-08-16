@@ -7,9 +7,9 @@
 
 🔧 **Мой стэк технологий**  
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql" height="28" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40" /><p>123</p>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="40" /> <p>123</p>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql" height="40" /> <p>123</p>
 
 ---
   <div id="header" align="center">
