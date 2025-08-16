@@ -6,13 +6,11 @@
 Привет, я Elowry!  
 
 🔧 **Мой стэк технологий**  
-<div style="transform: scale(1.2); display: inline-block;">
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-</div>
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql" height="28" />
+
 ---
   <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" />
