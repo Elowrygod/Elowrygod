@@ -7,7 +7,10 @@
 - **Backend**: Python, FastAPI, SQLAlchemy, Pydantic  
 - **Базы данных**: PostgreSQL, SQLite  
 - **Инструменты**: Git, Docker, pytest  
-- **Изучаю**: Kubernetes, async Python  
+- **Изучаю**: Kubernetes, async Python
+  <div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)" width="100"/>
+</div>
 
 ### 🔥 Мои проекты:
 - [Проект 1](ссылка) – Краткое описание  
