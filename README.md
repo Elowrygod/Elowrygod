@@ -3,11 +3,17 @@
 🚀 Начинающий Python-разработчик (FastAPI)  
 💻 Учусь создавать быстрые и надежные бекенды  
 
-### 🛠 Мой стек:
-- **Backend**: Python, FastAPI, SQLAlchemy, Pydantic  
-- **Базы данных**: PostgreSQL, SQLite  
-- **Инструменты**: Git, Docker, pytest  
-- **Изучаю**: Kubernetes, async Python
+Привет, я Elowry!  
+
+🔧 **Мой стэк технологий**  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
   <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" />
 </div>
@@ -20,5 +26,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/ваш_телеграм)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ваш-linkedin)  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
