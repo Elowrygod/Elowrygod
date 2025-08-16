@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Elowry 👋
 
-<!--
-**Elowrygod/Elowrygod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Начинающий Python-разработчик (FastAPI)  
+💻 Учусь создавать быстрые и надежные бекенды  
 
-Here are some ideas to get you started:
+### 🛠 Мой стек:
+- **Backend**: Python, FastAPI, SQLAlchemy, Pydantic  
+- **Базы данных**: PostgreSQL, SQLite  
+- **Инструменты**: Git, Docker, pytest  
+- **Изучаю**: Kubernetes, async Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Мои проекты:
+- [Проект 1](ссылка) – Краткое описание  
+- [Проект 2](ссылка) – Краткое описание  
+
+### 📫 Как связаться:
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/ваш_телеграм)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ваш-linkedin)  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
