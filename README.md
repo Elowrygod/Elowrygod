@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
 
 ---
